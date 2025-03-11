@@ -1,15 +1,15 @@
-# Proyecto de curso de Arquitectura de Backend
+# Backend Architecture Course Project
 
-## Objetivo
-La meta del estudiante consiste en aprender a desarrollar un sistema de Backend desde 0, llevando a cabo la interpretacion de "requerimientos de negocio" hasta la implementacion del mismo, y debera realizarse tomando en cuenta la planificacion de una arquitectura que detalle en alto nivel como el sistema propuesto cumple con los casos de uso derivados de los requerimientos.
+## Objective
+The student's goal is to learn how to develop a Backend system from scratch, starting from the interpretation of "business requirements" to its implementation. This should be done considering the planning of an architecture that details at a high level how the proposed system meets the use cases derived from the requirements.
 
-## Requerimientos del cliente
+## Client Requirements
 
-La empresa "RandomCameraReviews" necesita un sistema que permita que fotografos profesionales suban "reviews" de Camaras fotograficas, para que cualquier persona desde cualquier parte del mundo pueda buscar los los reviews y comprarlas a travez de su portal.
-La empresa cuenta con un equipo de developers especializado en frontEnd que realizara un portal para que los editores suban los "reviews" y los usuarios puedan verlos, y han solicitado que tu como especista en Backend, les proporciones un sistema, incluyendo API que permita  realizar lo siguiente:
+The company "RandomCameraReviews" needs a system that allows professional photographers to upload "reviews" of cameras, so that anyone from anywhere in the world can search for the reviews and buy them through their portal.
+The company has a specialized front-end development team that will create a portal for editors to upload the "reviews" and for users to view them. They have requested that you, as a Backend specialist, provide them with a system, including an API, that allows the following:
 
-* Subir reviews de Camaras fotograficas
-* Obtener el contenido de los reviews para mostrarlo en vistas del portal en sus versiones web y mobile.
-* Manejo de usuarios para editores (no incluye visitantes que leen los reviews)
+* Upload camera reviews
+* Retrieve the content of the reviews to display it on the portal's web and mobile views.
+* User management for editors (excluding visitors who read the reviews)
 
-Tambien se sabe que la empresa "RandomCameraReviews" planea distribuir mayormente en America del Sur donde esta su mercado mas grande, pero tambien tienen ventas en norte america, Europa, y muy pocas en Asia.
+It is also known that the company "RandomCameraReviews" plans to distribute mainly in South America where their largest market is, but they also have sales in North America, Europe, and very few in Asia.
