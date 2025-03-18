@@ -10,20 +10,24 @@ The company has a specialized front-end development team that will create a port
 
 It is also known that the company "RandomCameraReviews" plans to distribute mainly in South America where their largest market is, but they also have sales in North America, Europe, and very few in Asia.
 
-### Alcance(Scope)
-Descripción..
+### Scope
 
-#### Casos de uso
-Descripción...
-* Caso de uso 1
-* Caso de uso 2
-* ...
+#### Use cases
+* As an editor I would like to post a review for a camera.
+* As an editor I would like to post a review for a camera lens.
+* As an editor I should be able to check the reviews for the items.
+* As an unregister user I should be able to check the reviews for the items.
+* Every user should be able to buy the products through their portal.
+* As a user I would like to see the reviews in a computer o a mobile device.
+* As a admin I would like to create editors.
+* As a admin I would like to update editors.
+* As a admin I would like to delete editors.
+* As a admin I would like to see a list of editors.
 
-#### Out of Scope (casos de uso No Soportados)
-Descripción...
-* Caso de uso 1
-* Caso de uso 2
-* ...
+
+#### Out of Scope
+* As an unregistered user, I would like to be able to post a review for a camera.
+* As an admin I would like to manage customer users.
 ---
 ## Arquitectura
 
