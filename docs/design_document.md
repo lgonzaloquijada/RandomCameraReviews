@@ -1,5 +1,5 @@
 # CameraReviews System
----
+
 ## Overview: 
 The company "RandomCameraReviews" needs a system that allows professional photographers to upload "reviews" of cameras, so that anyone from anywhere in the world can search for the reviews and buy them through their portal.
 The company has a specialized front-end development team that will create a portal for editors to upload the "reviews" and for users to view them. They have requested that you, as a Backend specialist, provide them with a system, including an API, that allows the following:
@@ -29,10 +29,18 @@ It is also known that the company "RandomCameraReviews" plans to distribute main
 * As an unregistered user, I would like to be able to post a review for a camera.
 * As an admin I would like to manage customer users.
 ---
-## Arquitectura
+## Architecture
 
-### Diagramas
-poner diagramas de secuencia, uml, etc
+### Diagrams
+
+* First Approach:
+<img src="./images/backend_architecture1.png">
+
+* Second Approach:
+<img src="./images/design_document_fb.png">
+
+* Third Approach:
+<img src="./images/architecture1.png">
 
 ### Modelo de datos
 Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
