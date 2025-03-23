@@ -38,15 +38,13 @@ poner diagramas de secuencia, uml, etc
 Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
 
 ---
-## Limitaciones
-Lista de limitaciones conocidas. Puede ser en formato de lista.
-Ej.
-* Llamadas del API tienen latencia X
-* No se soporta mas de X llamadas por segundo
+## Limitations
+List of known limitations. It can be in list form.
+* The API call that allows to upload a review doesn't exceed the limits of latency 500ms.
+* The API call that allows to get the reviews for reading must have a latency lower to 100ms.
 ---
-## Costo
-Descripción/Análisis de costos
-Ejemplo:
+## Cost
+Cost Description/Analysis
 "Considerando N usuarios diarios, M llamadas a X servicio/baseDatos/etc"
 * 1000 llamadas diarias a serverless functions. $XX.XX
 * 1000 read/write units diarias a X Database on-demand. $XX.XX
