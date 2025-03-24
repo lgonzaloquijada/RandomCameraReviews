@@ -42,8 +42,16 @@ It is also known that the company "RandomCameraReviews" plans to distribute main
 * Third Approach:
 <img src="./images/architecture1.png">
 
-### Modelo de datos
-Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
+### Data model
+<img src="./images/data_model.png">
+
+### Testing Plan
+Create testing project to validate the next use cases:
+ * Register user, create review, simulate that a guest can read the written review.
+
+### Continuous Integration Plan
+
+<img src="./images/ci_plan.png">
 
 ---
 ## Limitations
