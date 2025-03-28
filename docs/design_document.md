@@ -45,6 +45,9 @@ It is also known that the company "RandomCameraReviews" plans to distribute main
 ### Data model
 <img src="./images/data_model.png">
 
+Last Data model:
+<img src="./images/entities.png">
+
 ### Testing Plan
 Create testing project to validate the next use cases:
  * Register user, create review, simulate that a guest can read the written review.
